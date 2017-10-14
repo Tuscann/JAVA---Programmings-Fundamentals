@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;   // 100/100
 import java.util.ArrayList;
+import java.util.List;
 
 public class l_03_Min_Max_Sum_Average {
     public static void main(String[] args) throws IOException {
@@ -11,7 +12,7 @@ public class l_03_Min_Max_Sum_Average {
 
         int n = Integer.parseInt(reader.readLine());
 
-        ArrayList<Integer> numbers = new ArrayList<>();
+        List<Integer> numbers = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
             numbers.add(Integer.parseInt(reader.readLine()));

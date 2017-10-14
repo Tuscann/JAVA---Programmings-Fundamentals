@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // 100/100
 
 public class _02_Reverse_Array_of_Integers {
     public static void main(String[] args) {

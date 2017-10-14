@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //100/100
 
 public class _01_Day_of_Week {
     public static void main(String[] args) {

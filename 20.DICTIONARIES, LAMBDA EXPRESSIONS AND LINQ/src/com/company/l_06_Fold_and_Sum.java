@@ -35,4 +35,3 @@ public class l_06_Fold_and_Sum {
         System.out.println(downList.stream().map(Object::toString).collect(Collectors.joining(" ")));
     }
 }
-
